@@ -1,1 +1,1 @@
-https://alefhyy.github.io/array-de-obj/
+https://alefhyy.github.io/coderhouse-array-de-obj/
